@@ -1,0 +1,12 @@
+{
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "trailingComma": "es5",
+  "tabWidth": 4,
+  "semi": false,
+  "singleQuote": true,
+  "html.autoClosingTags": true,
+  "html.format.enable": true,
+  "html.format.indentInnerHtml": true
+}
